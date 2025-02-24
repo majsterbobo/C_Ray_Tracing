@@ -1,3 +1,3 @@
 # C_Ray_Tracing
-Ray Traycing physics in C
+Ray Traycing in C for graphics\
 based on https://youtu.be/2BLRLuczykM?si=15fttXddpK8Ls0hP
